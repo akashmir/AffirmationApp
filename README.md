@@ -16,6 +16,8 @@ This app brings you **powerful daily affirmations** paired with **beautiful visu
 
 ## 🚀 **Installation**  
 You Can Check Releases to Download Apk
+
+
 Clone the repository and open it in **Android Studio**:  
 ```sh
 git clone https://github.com/akashmir/AffirmationApp.git
